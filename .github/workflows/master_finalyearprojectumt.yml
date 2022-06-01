@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'finalyearprojectumt'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C99D2F118FE44930B70AC80FE518E949 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_32F94A6E628F48ABA545020AC9E2D658 }}
           package: .
