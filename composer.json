@@ -1,0 +1,15 @@
+{
+    "name": "hardyweb/finalyearproject",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hardyweb",
+            "email": "nobat80@gmail.com"
+        }
+    ],
+    "require": {}
+}
